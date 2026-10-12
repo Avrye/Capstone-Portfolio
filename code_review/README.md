@@ -82,7 +82,9 @@
   <h2 style="margin: 0; display: inline;">Part 3: Databases / Client-Server Management (CS-340 Python CRUD Module)</h2>
 </summary>
 
-### Existing Functionality: A Python class that acts as a bridge between client applications and a MongoDB database housing animal shelter records, handling core CRUD operations (Create, Read, Update, Delete) with flexible filtering capabilites. 
+### Existing Functionality: 
+ 
+ A Python class that acts as a bridge between client applications and a MongoDB database housing animal shelter records, handling core CRUD operations (Create, Read, Update, Delete) with flexible filtering capabilites. 
 
 ### Code Analysis and Weaknesses: 
   * Many Typos and unrefined varible
