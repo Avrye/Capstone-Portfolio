@@ -76,3 +76,23 @@
   * Course outcome Four: Building secure, efficient, and maintainable software solutions (memory management and structured logic).
     
 </details>
+
+<details>
+<summary style="display: flex; align-items: center; cursor: pointer;">
+  <h2 style="margin: 0; display: inline;">Part 3: Databases / Client-Server Management (CS-340 Python CRUD Module)</h2>
+</summary>
+
+### Existing Functionality: A Python class that acts as a bridge between client applications and a MongoDB database housing animal shelter records, handling core CRUD operations (Create, Read, Update, Delete) with flexible filtering capabilites. 
+
+### Code Analysis and Weaknesses: 
+  * Many Typos and unrefined varible
+  * Control flow erros which fails to return data correctly, which defaults to 'None'.
+  * Connection strings pass raw credentials wihtout any roper formatting or URL encoding, which can create culnerabilites if passwords contain special characters.
+    
+### Planned Enhancements:
+  * Fix all typos and ensure that all variables are properly defined
+  * Ensure that all data inputs are properly handled to help with security
+    
+### Course Outcomes Met: 
+  * Course Outcome Three: Evaluating solutions using rigorous standards and structured testing. 
+  * Course Outcome Five: Protecting data integrity and security through robust database design and defensive programming.
