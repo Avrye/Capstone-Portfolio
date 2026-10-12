@@ -30,6 +30,12 @@
  * Uses an ArrayList with slot index counters, meaning deleting items from the middle shifts index positions and causes errors.
  * Deletes and edits use slow linerar loops insted of direct key lookups
 
- ###Planned Enhancements:
- * 
+### Planned Enhancements:
+ * Keep ID types consistently as Strings
+ * Swap the ArrayList out for a HashMap for constant-time lookups without index shifting
+ * Expand and tighten unit test coverage.
+
+### Course Outcomes Met: 
+* Course Outcome One: Standard-compliant environments and commenting
+* Course Outcome Three: Rigorous computer science standards via HashMap transition
 
