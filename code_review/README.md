@@ -50,3 +50,24 @@
 <summary style="display: flex; align-items: center; cursor: pointer;">
   <h2 style="margin: 0; display: inline;">Part 2: Algorithms and Data Structures (CS-300 Course Sorting Application)</h2>
 </summary>
+### Existing Functionality:
+  A C++ command-line appliction that processes a spreadsheet of college courses and builds a custom Binary Search Tree to keep records sorted alaphabetically by course ID. Users can interact via menu to:
+  * Load course data from a file
+  * Display all courses in alphanumeric order
+  * Search for a specific course and view its prerequisites
+
+### Code Analysis and Weaknesses: 
+  * Memory Leaks: Tree nodes are allocated on the heap using 'new', but the program never deallocates them when exiting, leaving dangling memory
+  * File Reading Bugs: The loader causes some lines to be read twice, creating duplicate or glitichy entries. 
+  * Menu Numbers: Menu input checks rely on unmanaged hardcoded number ranges that do not cleanly match menu options. 
+  
+### Planned Enhancements:
+  * Implement a proper recusive destructor to automatically clean up heap memory upon Exit. 
+  * Update the file loading loop to check 'getline' directly to prevent duplicate final line reads. 
+  * Refine menu imput validation and control flow.
+    
+### Course Outcomes Met: 
+  * Course outcome Two: Using well-founded techniques and tools in computing pratices.
+  * Course outcome Four: Building secure, efficient, and maintainable software solutions (memory management and structured logic).
+    
+</details>
