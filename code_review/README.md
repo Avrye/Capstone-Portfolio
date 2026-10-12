@@ -2,11 +2,8 @@
 
 ## Code Review Presentation Video
 
-<video controls width="100%">
-  <source src="2026-09-13 18-06-51.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+[![Watch the Code Review Presentation Walkthrough](https://img.youtube.com/vi/82YfFveFkoU/hqdefault.jpg)](https://www.youtube.com/watch?v=82YfFveFkoU)
 
 ## Existing Functionality & Analysis
 
-*(Paste your Module 1 text or summary here)*
+*(Paste the text or key summary from your Module 1 document here so evaluators can easily read your breakdown alongside the video!)*
