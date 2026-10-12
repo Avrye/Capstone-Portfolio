@@ -24,10 +24,6 @@ Click to expand</summary>
 
  or CRUD operaations 
 
- 
-
-</details>
-
 ### Code Analysis and Weaknesses: 
  * Architectural bugs and issues with code execution.
  * Inconsistent or missing comments
