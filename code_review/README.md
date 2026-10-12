@@ -53,6 +53,7 @@
 <summary style="display: flex; align-items: center; cursor: pointer;">
   <h2 style="margin: 0; display: inline;">Part 2: Algorithms and Data Structures (CS-300 Course Sorting Application)</h2>
 </summary>
+
 ### Existing Functionality:
   
   A C++ command-line appliction that processes a spreadsheet of college courses and builds a custom Binary Search Tree to keep records sorted alaphabetically by course ID. Users can interact via menu to:
