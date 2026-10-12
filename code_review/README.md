@@ -7,7 +7,7 @@
 ---
 <details>
  
-### Part 1: Software Design and Engineering (CS-320 Contact Managment Application)
+<summary> ### Part 1: Software Design and Engineering (CS-320 Contact Managment Application)
 
 ## Existing Functionality:
 
