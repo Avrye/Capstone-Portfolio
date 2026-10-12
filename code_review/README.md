@@ -8,7 +8,7 @@
 
 <details>
 <summary style="display: flex; align-items: center; cursor: pointer;">
- <h2 style="margin: 0; display: inline;">Part 1: Software Design and Engineering (CS-320 Contact Managment Application)</h2>
+  <h2 style="margin: 0; display: inline;">Part 1: Software Design and Engineering (CS-320 Contact Management Application)</h2>
 </summary>
 
 ### Existing Functionality:
@@ -48,5 +48,5 @@
 
 <details>
 <summary style="display: flex; align-items: center; cursor: pointer;">
-  <h3 style="margin: 0; display: inline;">Part 2: Algorithms and Data Structures (CS-300 Course Sorting Application)</h3>
+  <h2 style="margin: 0; display: inline;">Part 2: Algorithms and Data Structures (CS-300 Course Sorting Application)</h2>
 </summary>
