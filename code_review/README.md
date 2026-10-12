@@ -6,7 +6,8 @@
 
 ---
 <details>
-<summary><b>Part 1: Software Design and Engineering (CS-320 Contact Managment Application)
+ 
+### Part 1: Software Design and Engineering (CS-320 Contact Managment Application)
 
 ## Existing Functionality:
 
@@ -42,4 +43,4 @@
 * Course Outcome Three: Rigorous computer science standards via HashMap transition
 
 </details>
-<details>
+
