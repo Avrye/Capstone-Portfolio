@@ -28,6 +28,7 @@
  or CRUD operaations 
 
 ### Code Analysis and Weaknesses: 
+
  * Architectural bugs and issues with code execution.
  * Inconsistent or missing comments
  * Lack of test coverage ffor invalid inputs
@@ -36,11 +37,13 @@
  * Deletes and edits use slow linerar loops insted of direct key lookups
 
 ### Planned Enhancements:
+
  * Keep ID types consistently as Strings
  * Swap the ArrayList out for a HashMap for constant-time lookups without index shifting
  * Expand and tighten unit test coverage.
 
 ### Course Outcomes Met: 
+
 * Course Outcome One: Standard-compliant environments and commenting
 * Course Outcome Three: Rigorous computer science standards via HashMap transition
 
@@ -51,6 +54,7 @@
   <h2 style="margin: 0; display: inline;">Part 2: Algorithms and Data Structures (CS-300 Course Sorting Application)</h2>
 </summary>
 ### Existing Functionality:
+  
   A C++ command-line appliction that processes a spreadsheet of college courses and builds a custom Binary Search Tree to keep records sorted alaphabetically by course ID. Users can interact via menu to:
   * Load course data from a file
   * Display all courses in alphanumeric order
