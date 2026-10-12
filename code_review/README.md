@@ -4,8 +4,9 @@
 
 [![Watch the Code Review Presentation Walkthrough](https://img.youtube.com/vi/82YfFveFkoU/hqdefault.jpg)](https://www.youtube.com/watch?v=82YfFveFkoU)
 
-<details>
-<summary><b>Part 1: Software Design and Engineering (CS-320 Contact Managment Application)
+---
+
+## Part 1: Software Design and Engineering (CS-320 Contact Managment Application)
 
 ### Existing Functionality:
 
@@ -40,4 +41,4 @@
 * Course Outcome One: Standard-compliant environments and commenting
 * Course Outcome Three: Rigorous computer science standards via HashMap transition
 
-</details>
+
