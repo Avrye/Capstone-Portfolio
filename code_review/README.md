@@ -22,3 +22,7 @@ Service classes store records in memory for:
 
 or CRUD operaations 
 
+### Code Analysis and Weaknesses: 
+ * Architectural bugs and issues with code execution.
+ * Inconsistent or missing comments
+
