@@ -7,6 +7,7 @@
 <details>
 <summary>## Part 1: Software Design and Engineering (CS-320 Contact Managment Application)
 
+Click to expand</summary>
 ### Existing Functionality:
 
  Acts as a digital address book in Java. It validates incoming user info to prevent crashes. This is done by
@@ -23,7 +24,7 @@
 
  or CRUD operaations 
 
- Click to expand</summary>
+ 
 
 </details>
 
