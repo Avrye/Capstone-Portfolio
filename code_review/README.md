@@ -6,8 +6,10 @@
 
 ---
 
-<details><summary style="display: flex; align-items: center; cursor: pointer;">
- <h2>Part 1: Software Design and Engineering (CS-320 Contact Managment Application)</h2></summary>
+<details>
+<summary style="display: flex; align-items: center; cursor: pointer;">
+ <h2 style="margin: 0; display: inline;">Part 1: Software Design and Engineering (CS-320 Contact Managment Application)</h2>
+</summary>
 
 ### Existing Functionality:
 
