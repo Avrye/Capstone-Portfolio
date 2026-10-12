@@ -6,7 +6,7 @@
 
 ---
 <details>
-<summary><h3></h3>Part 1: Software Design and Engineering (CS-320 Contact Managment Application)</h3> </summary>
+<summary><h3></h2>Part 1: Software Design and Engineering (CS-320 Contact Managment Application)</h2></summary>
 
 ## Existing Functionality:
 
