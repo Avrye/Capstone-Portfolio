@@ -7,3 +7,5 @@
     title="Code Review Presentation Walkthrough" frameborder="0" allowfullscreen></iframe>
 </div>
 
+## Existing Functionality & Analysis
+*(Paste the text or key summary from your Module 1 document here so evaluators can easily read your breakdown alongside the video!)*
