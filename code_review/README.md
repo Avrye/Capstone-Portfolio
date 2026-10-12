@@ -6,7 +6,7 @@
 
 ## Part 1: Software Design and Engineering (CS-320 Contact Managment Application)
 
-#Existing Functionality:
+## Part 1: Software Design and Engineering (CS-320 Contact Managment Application)
 
 Acts as a digital address book in Java. It validates incoming user info to prevent crashes. This is done by
 * -ensuring IDs are under 10 characters and non-blank
