@@ -5,8 +5,7 @@
 [![Watch the Code Review Presentation Walkthrough](https://img.youtube.com/vi/82YfFveFkoU/hqdefault.jpg)](https://www.youtube.com/watch?v=82YfFveFkoU)
 
 ---
-<details>
-<summary><h2>Part 1: Software Design and Engineering (CS-320 Contact Managment Application)</h2></summary>
+<details><summary><h2>Part 1: Software Design and Engineering (CS-320 Contact Managment Application)</h2></summary>
 
 ## Existing Functionality:
 
