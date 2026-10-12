@@ -44,3 +44,5 @@ Click to expand</summary>
 ### Course Outcomes Met: 
 * Course Outcome One: Standard-compliant environments and commenting
 * Course Outcome Three: Rigorous computer science standards via HashMap transition
+
+</details>
