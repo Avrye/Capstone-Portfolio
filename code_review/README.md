@@ -8,7 +8,7 @@
 
 ### Existing Functionality:
 
- Acts as a digital address book in Java. It validates incoming user info to prevent crashes. This is done by
+<summary> Acts as a digital address book in Java. It validates incoming user info to prevent crashes. This is done by
    * ensuring IDs are under 10 characters and non-blank
    * The name fits within the size limits
    * Phone numbers are exactly 10 digits
@@ -21,6 +21,7 @@
    * Delete
 
  or CRUD operaations 
+ </summary>
 
 ### Code Analysis and Weaknesses: 
  * Architectural bugs and issues with code execution.
