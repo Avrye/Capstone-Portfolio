@@ -2,5 +2,7 @@
 
 ## Code Review Presentation Video
 
-You can view the screencast walkthrough video directly in the repository here:
-[Watch Code Review Walkthrough Video](./2026-09-13%2018-06-51.mov)
+<video width="100%" controls>
+  <source src="./2026-09-13%2018-06-51.mov" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
