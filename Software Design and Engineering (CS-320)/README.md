@@ -1,9 +1,9 @@
 # 3-2 Milestone Two: Enhancement One: Software Design and Engineering
 
-## Artifact Description:
+## Artifact Description
 &nbsp;&nbsp;&nbsp;&nbsp;The artifact I chose was CS-320’s Software Test Automation. This is a Java-based program designed as a contact management system. This will allow users to create, read, update, and delete(CRUD) contact records. These contact records store a unique ID, first name, last name, phone number, and address. The program then validates the information that was entered to ensure it meets the specific preset requirements, such as limiting the name and address lengths. It also includes tests that will verify that the system is working correctly and rejecting invalid inputs. The artifact was created in December of 2025  for the purpose of submission to CS-320’s software test automation class as a final project. 
 
-## Justification and Enhancement Overview:
+## Justification and Enhancement Overview
 &nbsp;&nbsp;&nbsp;&nbsp;I selected this artifact because test automation is a cornerstone of computer science. IT can demonstrate an ability to both verify requirements and automate testing of the ability to verify requirements to ensure that no invalid inputs will be accepted. It also shows the ability to write maintainable, high-quality code. This project uses a structured unit testing framework to validate class requirements, boundary conditions, and input constraints. The abilities it showcases are defensive programming, testing methods, and the addition of a logic validation component. The artifact was improved in many different ways. The first major improvement is the addition of a security test. The original service test is meant for testing the functionality of the CRUD method within the application. Ensuring that an item was added or edited and can be searched. The security test is to make sure that all inputs are valid by rejecting improper IDs, no blank names, no improperly formatted phone numbers, and not allowing just anyone to edit the internal list and rejecting any operations that involve missing concatenations. I also added more commenting to ensure that the program is understandable. I also ensured that the search now returns specific criteria correctly. 
   
 ## Course Outcomes and Outcome Coverage plan
