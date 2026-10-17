@@ -1,8 +1,15 @@
 # 5-2 Milestone Four: Enhancement Three: Databases
 
 ## Artifact Description
-&nbsp;&nbsp;&nbsp;&nbsp;This artifact is CS-340 Client and Server Development, created in February 2026. This project is for a fictional client, Grazioso Salveware, an organization that trains animals. The purpose of this project is to develop a web-based dashboard using Python, MongoDB, and the Dash framework to help the staff interact with and analyze animal shelter data. I updated the code to use only a MongoDB server and Python, and to run on PowerShell. The user is able to run the command in PowerShell and view the website in the browser. 
+&nbsp;&nbsp;&nbsp;&nbsp;This artifact is CS-340 Client and Server Development, created in February 2026. This project is for a fictional client, Grazioso Salveware, an organization that trains animals. The purpose of this project is to develop a web-based dashboard using Python, MongoDB, and the Dash framework to help the staff interact with and analyze animal shelter data. I updated the code to use only a MongoDB server and Python, and to run on PowerShell. The user is able to run the command in PowerShell and view the website in the browser. The user is able to:
 
+* Select a rescue category to filter the records
+* The table updates with matching animals
+* The pie chart updates to show breed distribution
+* Click a row in the table
+* The map centers on that animal’s location and shows its name and breed
+<br>
+<br>
 
 
 <img width="1919" height="915" alt="Screenshot 2026-10-16 214145" src="https://github.com/user-attachments/assets/dfd192f3-c818-47d6-9f09-992b317a7c42" />
@@ -73,16 +80,6 @@ The user should see the output:
 * You’re not in the correct project folder
 
 
-</details>
-<details>
- <summary><h3>How the Program Runs</h3> </summary>
-
-* Select a rescue category to filter the records
-* The table updates with matching animals
-* The pie chart updates to show breed distribution
-* Click a row in the table
-* The map centers on that animal’s location and shows its name and breed
- 
 </details>
 
 <details>
