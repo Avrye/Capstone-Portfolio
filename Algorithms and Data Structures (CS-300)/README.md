@@ -6,6 +6,9 @@
 <details>
 <summary><h2>Running and Functions</h2> </summary>
 
+## Project Folder
+*
+
 <img width="1195" height="295" alt="Screenshot 2026-10-16 224559" src="https://github.com/user-attachments/assets/ff80b0d4-6dd7-49f8-9445-06ebbb1f8234" />
 
 <img width="632" height="240" alt="Screenshot 2026-10-16 224855" src="https://github.com/user-attachments/assets/69e443e8-6ce3-44a3-a136-abae23326c2e" />
