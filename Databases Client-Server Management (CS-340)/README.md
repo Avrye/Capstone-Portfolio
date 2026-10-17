@@ -5,6 +5,8 @@
 
 
 ### Running and Functions
+![Uploading Screenshot 2026-10-16 214145.png…]()
+
 
 <details>
 <summary><h2>Enhancements and Overview</h2> </summary>
