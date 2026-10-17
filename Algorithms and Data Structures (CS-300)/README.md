@@ -13,6 +13,7 @@
 ### PowerShell
 * In PowerShell, type this and press Enter: .\CS-300.exe
 <img width="1195" height="295" alt="Screenshot 2026-10-16 224559" src="https://github.com/user-attachments/assets/ff80b0d4-6dd7-49f8-9445-06ebbb1f8234" />
+
 ## Running The Program
 
 First Load the courses into the program by typing **1** (An example course file is create for example purposes)
