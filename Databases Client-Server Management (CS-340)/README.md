@@ -45,6 +45,9 @@ This matches the code in CRUD.py
 * Mongo URI: mongodb://aacuser:SNHU1234@localhost:27017/?authSource=admin
 * database: AAC
 * collection: animals
+*
+<img width="1908" height="851" alt="Screenshot 2026-10-16 223808" src="https://github.com/user-attachments/assets/100ab2d5-5a7b-4668-864b-afbff41c0f29" />
+
 
 **PowerShell in the project folder**
 Run: cd "C:\Users\gag48\OneDrive\Desktop\SCHOOL\CS-499\Enhancements\CS-340 run this\CS-340 Enhanced"
