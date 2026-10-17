@@ -15,10 +15,8 @@ The user is able to:
 
 <img width="1919" height="915" alt="Screenshot 2026-10-16 214145" src="https://github.com/user-attachments/assets/dfd192f3-c818-47d6-9f09-992b317a7c42" />
 
-## Running and Functions
-
 <details>
-<summary><h3>New User Setup</h3> </summary>
+<summary><h2>Running and Functions</h2> </summary>
 
 ### Project Folder
 
