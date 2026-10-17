@@ -6,10 +6,12 @@ This program is design to:
 * Load courses from an input file
 * Display all courses in alphabetical order by course ID
 * Search for a course by its ID and see its name and prerequisites
+<br>
+<br>
+<img width="544" height="340" alt="Screenshot 2026-10-16 224919" src="https://github.com/user-attachments/assets/b4d0e94a-7514-42cb-ba35-6b2411aecfe5" />
+
 ***
 
-<img width="544" height="340" alt="Screenshot 2026-10-16 224919" src="https://github.com/user-attachments/assets/b4d0e94a-7514-42cb-ba35-6b2411aecfe5" />
-***
 <details>
 <summary><h2>Running and Functions</h2> </summary>
 
