@@ -12,19 +12,24 @@
 
 ### PowerShell
 * In PowerShell, type this and press Enter: .\CS-300.exe
+<br>
+<br>
 <img width="1195" height="295" alt="Screenshot 2026-10-16 224559" src="https://github.com/user-attachments/assets/ff80b0d4-6dd7-49f8-9445-06ebbb1f8234" />
 
 ## Running The Program
 
 First Load the courses into the program by typing **1** (An example course file is create for example purposes)
 <br>
+<br>
 <img width="632" height="240" alt="Screenshot 2026-10-16 224855" src="https://github.com/user-attachments/assets/69e443e8-6ce3-44a3-a136-abae23326c2e" />
 
 Next, type **2** to list the courses alphabetically.
 <br>
+<br>
 <img width="729" height="414" alt="Screenshot 2026-10-16 224903" src="https://github.com/user-attachments/assets/411f11b9-8dbf-454f-95a0-e10e6f31b9c3" />
 
 Type **3** to look up a course. For this example I searched course CS301. This should display the course along with its prerequisite classe.
+<br>
 <br>
 <img width="544" height="340" alt="Screenshot 2026-10-16 224919" src="https://github.com/user-attachments/assets/b4d0e94a-7514-42cb-ba35-6b2411aecfe5" />
 
