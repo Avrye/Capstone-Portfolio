@@ -3,8 +3,50 @@
 ## Artifact Description
 &nbsp;&nbsp;&nbsp;&nbsp;The artifact I chose was CS-320’s Software Test Automation. This is a Java-based program designed as a contact management system. This will allow users to create, read, update, and delete(CRUD) contact records. These contact records store a unique ID, first name, last name, phone number, and address. The program then validates the information that was entered to ensure it meets the specific preset requirements, such as limiting the name and address lengths. It also includes tests that will verify that the system is working correctly and rejecting invalid inputs. The artifact was created in December of 2025  for the purpose of submission to CS-320’s software test automation class as a final project. 
 
+This project runs 3 different folders
+* Contact Service:
+  * Contact data classes
+  * Contact service operations
+  * Contact Tests
+* Task Service:
+  * Task data classes
+  * Task service operations
+  * Task tests
+* Appoitment Service:
+  * Appoitment data classes
+  * Appointment service operations
+  * Appointment tests
+
+The tests folders contain JUinit test classes. The other folders contain the application classes.
+
+<img width="1526" height="680" alt="Screenshot 2026-10-17 002850" src="https://github.com/user-attachments/assets/ae1bb9ba-8c0b-4dc0-aa00-1c6080aac736" />
+
+***
+
 <details>
 <summary><h2>Running and Functions</h2> </summary>
+
+### Project Folder
+
+* Runs ModuleSIxProjectSnhuTompkins folder
+
+### Installation
+
+**Eclipse IDE for Java Developers**
+* Install it using an Eclipse Installer
+
+**Java Development Kit (JDK) 21**
+* Needs Java 21 to compile proect
+* The eclipse installer may bundle a JRE, but confirm Java 21 is configured in Eclipse
+* A JDK is needed to compile
+
+**JUnit 5 support**
+* Needed to run the project tests
+* Eclipse's Java package normally includes JUnit intergration
+* If prompted select JUnit 5
+
+
+###
 
   
 </details>
