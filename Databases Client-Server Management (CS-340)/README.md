@@ -9,7 +9,47 @@
 <details>
 <summary><h3>New User Setup</h3> </summary>
 
+### Project Folder
 
+* The app is in CS -340
+* The main app file is run_dashboard.py
+* The database connection loginc is in CRUD.py
+
+### Installation
+**Python**
+
+* Download Python 3.10 or 3.11
+* During install, check: "Add Python to PATH"
+* Verify: pyton --version
+
+**MongoDB**
+This project connects to a local MongoDB database
+
+* Install Mongo DB community Server
+* Start MongoDB locally on: localhost:27017
+* Make sure the database user exists with:
+  * username: aacuser
+  * password: SNHU1234
+  * auth database: admin
+
+This matches the code in CRUD.py
+* Mongo URI: mongodb://aacuser:SNHU1234@localhost:27017/?authSource=admin
+* database: AAC
+* collection: animals
+
+**PowerShell in the project folder**
+Run: cd "C:\Users\gag48\OneDrive\Desktop\SCHOOL\CS-499\Enhancements\CS-340 run this\CS-340 Enhanced"
+
+**Virtual envirnment**
+* If it does not already exist: py -m venv .venv
+* Then activate it: ..venv\Scripts\Activate.ps1
+
+**Install the project dependencies**
+* Run:
+  *  python -m pip install --upgrade pip
+  *  pip install dash dash-leaflet pandas plotly pymongo
+  
+(If the environment already includes them, this step may be unnecessary.)
 
 <img width="1919" height="915" alt="Screenshot 2026-10-16 214145" src="https://github.com/user-attachments/assets/dfd192f3-c818-47d6-9f09-992b317a7c42" />
 
