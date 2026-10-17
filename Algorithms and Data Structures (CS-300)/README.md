@@ -9,7 +9,7 @@ This program is design to:
 ***
 
 <img width="544" height="340" alt="Screenshot 2026-10-16 224919" src="https://github.com/user-attachments/assets/b4d0e94a-7514-42cb-ba35-6b2411aecfe5" />
-
+***
 <details>
 <summary><h2>Running and Functions</h2> </summary>
 
@@ -47,7 +47,7 @@ Finally, to exit the program type **9**
 *Note: The program will pause briefly or clear the screen between actions. This is expected so the user has time to read before the cache is cleared.*
 
 </details>
-
+***
 <details>
 <summary><h2>Enhancements and Overview</h2> </summary>
 
