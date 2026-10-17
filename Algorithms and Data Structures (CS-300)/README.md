@@ -35,6 +35,8 @@ Type **3** to look up a course. For this example I searched course CS301. This s
 
 Finally, to exit the program type **9**
 
+<br>
+<br>
 *Note: The program will pause briefly or clear the screen between actions. This is expected so the user has time to read before the cache is cleared.*
 
 </details>
