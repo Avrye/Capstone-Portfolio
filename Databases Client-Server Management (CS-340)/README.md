@@ -82,7 +82,7 @@ The user should see the output:
 </details>
 
 <details>
-<summary><h3>Enhancements and Overview</h3> </summary>
+<summary><h2>Enhancements and Overview</h2> </summary>
 
 ## Justification and Enhancement Overview
 I selected this artifact because databases and backend data management are foundational to modern software engineering. Showcasing an application that connects an interactive user interface directly to a live database demonstrates my ability to bridge raw data storage with practical user-facing utility. Some of the components of the artifact that showcase my skills and abilities are the use of databases such as MongoDB, along with setting up server connections and utilizing database indexes, which can optimize search queries. I also work with CRUD operations, which can create, read, update, and delete data in a database. Along with these, it also showcases the use of interactive data visualizations and UI through the building of dynamic user interfaces such as the table and map. This artifact has improved in many ways in comparison to the original. The first and most major way is the addition of a run_dashboard.py file, which allows the user to start the dashboard without using a notebook. This allows for a more streamlined startup and helps with ease of use, using a standard Dash instead of Jupyter Dash. I also improved commenting on the file to help with professionalism and readability. Also added input checks that reject any unknown fields, along with operator-style query payloads and empty update or delete filters, and fixed the original CRUD operations. 
