@@ -5,7 +5,8 @@
 
 
 ### Running and Functions
-![Uploading Screenshot 2026-10-16 214145.png…]()
+
+<img width="1919" height="915" alt="Screenshot 2026-10-16 214145" src="https://github.com/user-attachments/assets/dfd192f3-c818-47d6-9f09-992b317a7c42" />
 
 
 <details>
