@@ -1,7 +1,13 @@
 # 4-2 Milestone Three: Enhancement Two: Algorithms and Data Structure
 
 ## Artifact Description
-&nbsp;&nbsp;&nbsp;&nbsp;This artifact is from the CS-300 Analysis and Design class; it is a binary search program created 11 months ago. The purpose of this program was to efficiently handle a large amount of data. It was designed to load classroom and student information into a database; then the user could search and print that large dataset or exit the program.
+&nbsp;&nbsp;&nbsp;&nbsp;This artifact is from the CS-300 Analysis and Design class; it is a binary search program created 11 months ago. The purpose of this program was to efficiently handle a large amount of data. It was designed to load classroom and student information into a database; then the user could search and print that large dataset or exit the program. 
+This program is design to:
+* Load courses from an input file
+* Display all courses in alphabetical order by course ID
+* Search for a course by its ID and see its name and prerequisites
+
+<img width="544" height="340" alt="Screenshot 2026-10-16 224919" src="https://github.com/user-attachments/assets/b4d0e94a-7514-42cb-ba35-6b2411aecfe5" />
 
 <details>
 <summary><h2>Running and Functions</h2> </summary>
