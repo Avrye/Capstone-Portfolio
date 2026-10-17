@@ -8,7 +8,7 @@
 ## Running and Functions
 
 <details>
-<summary><h2>New User Setup</h2> </summary>
+<summary><h3>New User Setup</h3> </summary>
 
 ### Project Folder
 
@@ -52,11 +52,39 @@ Run: cd "C:\Users\gag48\OneDrive\Desktop\SCHOOL\CS-499\Enhancements\CS-340 run t
   
 (If the environment already includes them, this step may be unnecessary.)
 
+**Run Dashboard**
+*From the project folder: 
+ *python run_dashboard.py
+
+The user should see the output:
+“Dash is running on http://127.0.0.1:8050/”
+
+**Open the Program in Browser**
+* Go to: http://127.0.0.1:8050/
+
+<img width="1919" height="915" alt="Screenshot 2026-10-16 214145" src="https://github.com/user-attachments/assets/dfd192f3-c818-47d6-9f09-992b317a7c42" />
+
+**Common Issues**
+* MongoDB isn’t running
+* Wrong username/password
+* Python packages aren’t installed
+* You’re not in the correct project folder
 
 
 </details>
 <details>
-<summary><h2>Enhancements and Overview</h2> </summary>
+ <summary><h3>How the Program Runs</h3> </summary>
+
+* Select a rescue category to filter the records
+* The table updates with matching animals
+* The pie chart updates to show breed distribution
+* Click a row in the table
+* The map centers on that animal’s location and shows its name and breed
+ 
+</details>
+
+<details>
+<summary><h3>Enhancements and Overview</h3> </summary>
 
 ## Justification and Enhancement Overview
 I selected this artifact because databases and backend data management are foundational to modern software engineering. Showcasing an application that connects an interactive user interface directly to a live database demonstrates my ability to bridge raw data storage with practical user-facing utility. Some of the components of the artifact that showcase my skills and abilities are the use of databases such as MongoDB, along with setting up server connections and utilizing database indexes, which can optimize search queries. I also work with CRUD operations, which can create, read, update, and delete data in a database. Along with these, it also showcases the use of interactive data visualizations and UI through the building of dynamic user interfaces such as the table and map. This artifact has improved in many ways in comparison to the original. The first and most major way is the addition of a run_dashboard.py file, which allows the user to start the dashboard without using a notebook. This allows for a more streamlined startup and helps with ease of use, using a standard Dash instead of Jupyter Dash. I also improved commenting on the file to help with professionalism and readability. Also added input checks that reject any unknown fields, along with operator-style query payloads and empty update or delete filters, and fixed the original CRUD operations. 
