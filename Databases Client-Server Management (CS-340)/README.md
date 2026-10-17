@@ -1,11 +1,10 @@
 # 5-2 Milestone Four: Enhancement Three: Databases
 
-Hello
-<details>
-<summary><h2>Enhancements and Overview</h2> </summary>
-  
 ## Artifact Description
 This artifact is CS-340 Client and Server Development, created in February 2026. This project is for a fictional client, Grazioso Salveware, an organization that trains animals. The purpose of this project is to develop a web-based dashboard using Python, MongoDB, and the Dash framework to help the staff interact with and analyze animal shelter data. I updated the code to use only a MongoDB server and Python, and to run on PowerShell. The user is able to run the command in PowerShell and view the website in the browser. 
+
+<details>
+<summary><h2>Enhancements and Overview</h2> </summary>
 
 ## Justification and Enhancement Overview
 I selected this artifact because databases and backend data management are foundational to modern software engineering. Showcasing an application that connects an interactive user interface directly to a live database demonstrates my ability to bridge raw data storage with practical user-facing utility. Some of the components of the artifact that showcase my skills and abilities are the use of databases such as MongoDB, along with setting up server connections and utilizing database indexes, which can optimize search queries. I also work with CRUD operations, which can create, read, update, and delete data in a database. Along with these, it also showcases the use of interactive data visualizations and UI through the building of dynamic user interfaces such as the table and map. This artifact has improved in many ways in comparison to the original. The first and most major way is the addition of a run_dashboard.py file, which allows the user to start the dashboard without using a notebook. This allows for a more streamlined startup and helps with ease of use, using a standard Dash instead of Jupyter Dash. I also improved commenting on the file to help with professionalism and readability. Also added input checks that reject any unknown fields, along with operator-style query payloads and empty update or delete filters, and fixed the original CRUD operations. 
