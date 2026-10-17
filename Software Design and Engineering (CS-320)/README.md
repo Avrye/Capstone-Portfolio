@@ -1,10 +1,12 @@
-# 3-2 Milestone Two: Enhancement One: Software Design and Engineering
+# 3-2 Milestone Two: Software Design and Engineering
 
 ## Artifact Description
 &nbsp;&nbsp;&nbsp;&nbsp;The artifact I chose was CS-320’s Software Test Automation. This is a Java-based program designed as a contact management system. This will allow users to create, read, update, and delete(CRUD) contact records. These contact records store a unique ID, first name, last name, phone number, and address. The program then validates the information that was entered to ensure it meets the specific preset requirements, such as limiting the name and address lengths. It also includes tests that will verify that the system is working correctly and rejecting invalid inputs. The artifact was created in December of 2025  for the purpose of submission to CS-320’s software test automation class as a final project. 
 
 <details>
 <summary><h2>Running and Functions</h2> </summary>
+
+  
 </details>
 
 ***
