@@ -1,5 +1,7 @@
 # 5-2 Milestone Four: Enhancement Three: Databases
 
+<details>
+<summary></summary>
 ## Artifact Description
 This artifact is CS-340 Client and Server Development, created in February 2026. This project is for a fictional client, Grazioso Salveware, an organization that trains animals. The purpose of this project is to develop a web-based dashboard using Python, MongoDB, and the Dash framework to help the staff interact with and analyze animal shelter data. I updated the code to use only a MongoDB server and Python, and to run on PowerShell. The user is able to run the command in PowerShell and view the website in the browser. 
 
@@ -12,4 +14,5 @@ I feel as if this enhancement has successfully met the course outcomes I establi
 
 ## Reflection
 I really struggled with modifying and enhancing this artifact. I learned that getting an application to run involves way more than just writing its code. The runtime, database, sample data, and how the interface uses that data need to work together better. One challenge was that the project notebook used Jupyter Dash, which wasn’t compatible with the environment. I added a different launcher using a standard Dash so the dashboard could run locally without having to change the original notebook. I also noted that the map didn’t function properly, so I updated it to ensure that it displayed properly. Also, to ensure that the project could run, I created a simple database to test-run the application and ensure that it displayed correctly. Overall, I learned how important it is to properly test and ensure that the program is fully functional. 
+</summary>
 
