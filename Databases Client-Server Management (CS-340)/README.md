@@ -1,7 +1,8 @@
 # 5-2 Milestone Four: Enhancement Three: Databases
 
 <details>
-<summary></summary>
+<summary>Enhancements and Overview
+  
 ## Artifact Description
 This artifact is CS-340 Client and Server Development, created in February 2026. This project is for a fictional client, Grazioso Salveware, an organization that trains animals. The purpose of this project is to develop a web-based dashboard using Python, MongoDB, and the Dash framework to help the staff interact with and analyze animal shelter data. I updated the code to use only a MongoDB server and Python, and to run on PowerShell. The user is able to run the command in PowerShell and view the website in the browser. 
 
