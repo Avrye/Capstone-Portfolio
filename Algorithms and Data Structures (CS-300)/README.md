@@ -1,4 +1,4 @@
-<img width="729" height="414" alt="Screenshot 2026-10-16 224903" src="https://github.com/user-attachments/assets/411f11b9-8dbf-454f-95a0-e10e6f31b9c3" />
+
 
 # 4-2 Milestone Three: Enhancement Two: Algorithms and Data Structure
 
@@ -16,6 +16,7 @@
 
 <img width="544" height="340" alt="Screenshot 2026-10-16 224919" src="https://github.com/user-attachments/assets/b4d0e94a-7514-42cb-ba35-6b2411aecfe5" />
 
+<img width="729" height="414" alt="Screenshot 2026-10-16 224903" src="https://github.com/user-attachments/assets/411f11b9-8dbf-454f-95a0-e10e6f31b9c3" />
 </details>
 
 <details>
