@@ -8,7 +8,7 @@
 ## Running and Functions
 
 <details>
-<summary><h3>New User Setup</h3> </summary>
+<summary><h2>New User Setup</h2> </summary>
 
 ### Project Folder
 
