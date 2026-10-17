@@ -8,7 +8,7 @@
 
 <details>
 <summary style="display: flex; align-items: center; cursor: pointer;">
-  <h2 style="margin: 0; display: inline;">Part 1: Software Design and Engineering (CS-320 Contact Management Application)</h2>
+  <h2 style="margin: 0; display: inline;">Software Design and Engineering (CS-320 Contact Management Application)</h2>
 </summary>
 
 ### Existing Functionality:
@@ -51,7 +51,7 @@
 
 <details>
 <summary style="display: flex; align-items: center; cursor: pointer;">
-  <h2 style="margin: 0; display: inline;">Part 2: Algorithms and Data Structures (CS-300 Course Sorting Application)</h2>
+  <h2 style="margin: 0; display: inline;">Algorithms and Data Structures (CS-300 Course Sorting Application)</h2>
 </summary>
 
 ### Existing Functionality:
@@ -79,7 +79,7 @@
 
 <details>
 <summary style="display: flex; align-items: center; cursor: pointer;">
-  <h2 style="margin: 0; display: inline;">Part 3: Databases / Client-Server Management (CS-340 Python CRUD Module)</h2>
+  <h2 style="margin: 0; display: inline;">Databases / Client-Server Management (CS-340 Python CRUD Module)</h2>
 </summary>
 
 ### Existing Functionality: 
