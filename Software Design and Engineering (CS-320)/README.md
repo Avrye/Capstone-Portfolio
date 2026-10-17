@@ -46,7 +46,17 @@ The tests folders contain JUinit test classes. The other folders contain the app
 * If prompted select JUnit 5
 
 
-###
+### Running the Program
+
+* Open Exlipse and locate the project in Package Explorer
+* Expand a Class depening on which test the user is wanting to run
+* Open the test folder (for this example I will test the ContactService class)
+* Right click the Test for the class your are wanting to test (For the example this is ContactServiceTest.Java)
+* Click RunAs and select JUnit Test
+  * If prompted run as JUnit 5
+* View results in Eclipse JUnit Pannel
+
+A green bar shows that all test passed, If a test does not pass, it will be shown as a red error. 
 
   
 </details>
