@@ -1,11 +1,11 @@
 # Capstone-Portfolio
-Welcome to my Computer Science Capestone E-Portfolio. This repository acts as a showcase of three project I worked during my time at Southern New Hampshire university. 
+&nbsp&nbsp&nbsp&nbspWelcome to my Computer Science Capestone E-Portfolio. This repository acts as a showcase of three project I worked during my time at Southern New Hampshire university. 
 
-Throughout this program, I have built a strong foundation in software engineering, database management, and algorithmic problem-solving. This portfolio features original artifacts from my coursework, along with comprehensive code reviews and professional enhancements that demonstrate my growth as a software developer.
+&nbsp&nbsp&nbsp&nbspThroughout this program, I have built a strong foundation in software engineering, database management, and algorithmic problem-solving. This portfolio features original artifacts from my coursework, along with comprehensive code reviews and professional enhancements that demonstrate my growth as a software developer.
+___
+## Code Review Presentation
 
-### Code Review Presentation
-
-This video walks through the progress I made during my schoolwork showing my readiness to begin working in the computer science field. It dives into each artifact along with an enchancement explanation. 
+&nbsp&nbsp&nbsp&nbspThis video walks through the progress I made during my schoolwork showing my readiness to begin working in the computer science field. It dives into each artifact along with an enchancement explanation. 
 
 [![Watch the Code Review Presentation](https://img.youtube.com/vi/mXCeqiUFjFY/0.jpg)](https://www.youtube.com/watch?v=mXCeqiUFjFY)
 
