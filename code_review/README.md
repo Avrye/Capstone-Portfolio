@@ -25,16 +25,16 @@
    * Update
    * Delete
 
- or CRUD operaations 
+ or CRUD operations 
 
 ### Code Analysis and Weaknesses: 
 
  * Architectural bugs and issues with code execution.
  * Inconsistent or missing comments
- * Lack of test coverage ffor invalid inputs
- * IDs are store as Strings, but getter methodsattempted to parse them as integers.
+ * Lack of test coverage for invalid inputs
+ * IDs are stored as Strings, but getter methods attempted to parse them as integers.
  * Uses an ArrayList with slot index counters, meaning deleting items from the middle shifts index positions and causes errors.
- * Deletes and edits use slow linerar loops insted of direct key lookups
+ * Deletes and edits use slow linear loops instead of direct key lookups
 
 ### Planned Enhancements:
 
@@ -56,23 +56,23 @@
 
 ### Existing Functionality:
   
-  A C++ command-line appliction that processes a spreadsheet of college courses and builds a custom Binary Search Tree to keep records sorted alaphabetically by course ID. Users can interact via menu to:
+  A C++ command-line application that processes a spreadsheet of college courses and builds a custom Binary Search Tree to keep records sorted alphabetically by course ID. Users can interact via a menu to:
   * Load course data from a file
   * Display all courses in alphanumeric order
   * Search for a specific course and view its prerequisites
 
 ### Code Analysis and Weaknesses: 
   * Memory Leaks: Tree nodes are allocated on the heap using 'new', but the program never deallocates them when exiting, leaving dangling memory
-  * File Reading Bugs: The loader causes some lines to be read twice, creating duplicate or glitichy entries. 
+  * File Reading Bugs: The loader causes some lines to be read twice, creating duplicate or glitchy entries. 
   * Menu Numbers: Menu input checks rely on unmanaged hardcoded number ranges that do not cleanly match menu options. 
   
 ### Planned Enhancements:
-  * Implement a proper recusive destructor to automatically clean up heap memory upon Exit. 
+  * Implement a proper recursive destructor to automatically clean up heap memory upon Exit. 
   * Update the file loading loop to check 'getline' directly to prevent duplicate final line reads. 
-  * Refine menu imput validation and control flow.
+  * Refine menu input validation and control flow.
     
 ### Course Outcomes Met: 
-  * Course outcome Two: Using well-founded techniques and tools in computing pratices.
+  * Course outcome Two: Using well-founded techniques and tools in computing practices.
   * Course outcome Four: Building secure, efficient, and maintainable software solutions (memory management and structured logic).
     
 </details>
@@ -84,12 +84,12 @@
 
 ### Existing Functionality: 
  
- A Python class that acts as a bridge between client applications and a MongoDB database housing animal shelter records, handling core CRUD operations (Create, Read, Update, Delete) with flexible filtering capabilites. 
+ A Python class that acts as a bridge between client applications and a MongoDB database housing animal shelter records, handling core CRUD operations (Create, Read, Update, Delete) with flexible filtering capabilities. 
 
 ### Code Analysis and Weaknesses: 
-  * Many Typos and unrefined varible
-  * Control flow erros which fails to return data correctly, which defaults to 'None'.
-  * Connection strings pass raw credentials wihtout any roper formatting or URL encoding, which can create culnerabilites if passwords contain special characters.
+  * Many Typos and unrefined variables
+  * Control flow errors that fail to return data correctly, which defaults to 'None'.
+  * Connection strings pass raw credentials without any proper formatting or URL encoding, which can create vulnerabilities if passwords contain special characters.
     
 ### Planned Enhancements:
   * Fix all typos and ensure that all variables are properly defined
